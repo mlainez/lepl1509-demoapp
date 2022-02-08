@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">demo</string>
+    <string name="howdy">Howdy Yall!</string>
+    <string name="press_me">Press me!</string>
+    <string name="about">About</string>
+    <string name="lepl1509">About</string>
+    <string name="toast_message">Saved on Firestore</string>
+</resources>
